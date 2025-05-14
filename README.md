@@ -15,7 +15,7 @@ A passionate Backend Engineer with expertise in **C#**, **.NET**, and **Microsof
 
 ## 🛠️ Projects
 
-- **CommentSense**: An intelligent filtering solution built on a microservice framework with dependency injection patterns, enabling seamless categorization of user comments.
+-  **[CommentSense]([https://github.com/YourUsername/CommentSense](https://github.com/Aniket7378/CommentCategorization_2022))**: An intelligent filtering solution built on a microservice framework with dependency injection patterns, enabling seamless categorization of user comments.
 
 ---
 
